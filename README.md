@@ -1,2 +1,2 @@
 # poop
-A package for the analysis of animal manure treatment 💩
+A package for the modeling the greenhouse gas & manure from animal husbandry 💩
